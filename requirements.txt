@@ -1,0 +1,10 @@
+Flask-API == 2.0
+pandas == 2.1.4
+nltk == 3.8
+Werkzeug == 3.0.0
+scikit-learn==1.4.0
+tensorflow==2.15.0
+
+ipykernel==6.28.0
+matplotlib==3.8.1
+seaborn==0.13.0

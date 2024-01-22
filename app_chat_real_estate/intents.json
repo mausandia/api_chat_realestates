@@ -1,0 +1,404 @@
+{
+  "intents": [
+    {
+      "tag": "apartment_last_price_mean",
+      "patterns": [
+        "What is the average last price of apartment?",
+        "Tell me the average apartment last price."
+      ],
+      "responses": [
+        "The average last price of apartment is 5231102.7."
+      ]
+    },
+    {
+      "tag": "apartment_last_price_min",
+      "patterns": [
+        "What is the minimum last price of apartment?",
+        "Tell me the minimum apartment last price."
+      ],
+      "responses": [
+        "The minimum last price of apartment is 8500.0."
+      ]
+    },
+    {
+      "tag": "apartment_last_price_max",
+      "patterns": [
+        "What is the maximum last price of apartment?",
+        "Tell me the maximum apartment last price."
+      ],
+      "responses": [
+        "The maximum last price of apartment is 22500000.0."
+      ]
+    },
+    {
+      "tag": "apartment_last_price_median",
+      "patterns": [
+        "What is the median last price of apartment?",
+        "Tell me the median apartment last price."
+      ],
+      "responses": [
+        "The median last price of apartment is 4943000.0."
+      ]
+    },
+    {
+      "tag": "apartment_last_price_std",
+      "patterns": [
+        "What is the standard deviation last price of apartment?",
+        "Tell me the standard deviation apartment last price."
+      ],
+      "responses": [
+        "The standard deviation last price of apartment is 4022572.3."
+      ]
+    },
+    {
+      "tag": "apartment_num_bedrooms_mean",
+      "patterns": [
+        "What is the average num bedrooms of apartment?",
+        "Tell me the average apartment num bedrooms."
+      ],
+      "responses": [
+        "The average num bedrooms of apartment is 1.9."
+      ]
+    },
+    {
+      "tag": "apartment_num_bedrooms_min",
+      "patterns": [
+        "What is the minimum num bedrooms of apartment?",
+        "Tell me the minimum apartment num bedrooms."
+      ],
+      "responses": [
+        "The minimum num bedrooms of apartment is 0.0."
+      ]
+    },
+    {
+      "tag": "apartment_num_bedrooms_max",
+      "patterns": [
+        "What is the maximum num bedrooms of apartment?",
+        "Tell me the maximum apartment num bedrooms."
+      ],
+      "responses": [
+        "The maximum num bedrooms of apartment is 5.0."
+      ]
+    },
+    {
+      "tag": "apartment_num_bedrooms_median",
+      "patterns": [
+        "What is the median num bedrooms of apartment?",
+        "Tell me the median apartment num bedrooms."
+      ],
+      "responses": [
+        "The median num bedrooms of apartment is 2.0."
+      ]
+    },
+    {
+      "tag": "apartment_num_bedrooms_std",
+      "patterns": [
+        "What is the standard deviation num bedrooms of apartment?",
+        "Tell me the standard deviation apartment num bedrooms."
+      ],
+      "responses": [
+        "The standard deviation num bedrooms of apartment is 0.7."
+      ]
+    },
+    {
+      "tag": "apartment_num_bathrooms_mean",
+      "patterns": [
+        "What is the average num bathrooms of apartment?",
+        "Tell me the average apartment num bathrooms."
+      ],
+      "responses": [
+        "The average num bathrooms of apartment is 1.8."
+      ]
+    },
+    {
+      "tag": "apartment_num_bathrooms_min",
+      "patterns": [
+        "What is the minimum num bathrooms of apartment?",
+        "Tell me the minimum apartment num bathrooms."
+      ],
+      "responses": [
+        "The minimum num bathrooms of apartment is 0.0."
+      ]
+    },
+    {
+      "tag": "apartment_num_bathrooms_max",
+      "patterns": [
+        "What is the maximum num bathrooms of apartment?",
+        "Tell me the maximum apartment num bathrooms."
+      ],
+      "responses": [
+        "The maximum num bathrooms of apartment is 4.5."
+      ]
+    },
+    {
+      "tag": "apartment_num_bathrooms_median",
+      "patterns": [
+        "What is the median num bathrooms of apartment?",
+        "Tell me the median apartment num bathrooms."
+      ],
+      "responses": [
+        "The median num bathrooms of apartment is 2.0."
+      ]
+    },
+    {
+      "tag": "apartment_num_bathrooms_std",
+      "patterns": [
+        "What is the standard deviation num bathrooms of apartment?",
+        "Tell me the standard deviation apartment num bathrooms."
+      ],
+      "responses": [
+        "The standard deviation num bathrooms of apartment is 0.6."
+      ]
+    },
+    {
+      "tag": "apartment_surface_total_mean",
+      "patterns": [
+        "What is the average surface total of apartment?",
+        "Tell me the average apartment surface total."
+      ],
+      "responses": [
+        "The average surface total of apartment is 99.7."
+      ]
+    },
+    {
+      "tag": "apartment_surface_total_min",
+      "patterns": [
+        "What is the minimum surface total of apartment?",
+        "Tell me the minimum apartment surface total."
+      ],
+      "responses": [
+        "The minimum surface total of apartment is 30.0."
+      ]
+    },
+    {
+      "tag": "apartment_surface_total_max",
+      "patterns": [
+        "What is the maximum surface total of apartment?",
+        "Tell me the maximum apartment surface total."
+      ],
+      "responses": [
+        "The maximum surface total of apartment is 425.0."
+      ]
+    },
+    {
+      "tag": "apartment_surface_total_median",
+      "patterns": [
+        "What is the median surface total of apartment?",
+        "Tell me the median apartment surface total."
+      ],
+      "responses": [
+        "The median surface total of apartment is 92.0."
+      ]
+    },
+    {
+      "tag": "apartment_surface_total_std",
+      "patterns": [
+        "What is the standard deviation surface total of apartment?",
+        "Tell me the standard deviation apartment surface total."
+      ],
+      "responses": [
+        "The standard deviation surface total of apartment is 48.8."
+      ]
+    },
+    {
+      "tag": "house_last_price_mean",
+      "patterns": [
+        "What is the average last price of house?",
+        "Tell me the average house last price."
+      ],
+      "responses": [
+        "The average last price of house is 20620389.9."
+      ]
+    },
+    {
+      "tag": "house_last_price_min",
+      "patterns": [
+        "What is the minimum last price of house?",
+        "Tell me the minimum house last price."
+      ],
+      "responses": [
+        "The minimum last price of house is 27500.0."
+      ]
+    },
+    {
+      "tag": "house_last_price_max",
+      "patterns": [
+        "What is the maximum last price of house?",
+        "Tell me the maximum house last price."
+      ],
+      "responses": [
+        "The maximum last price of house is 101663891.4."
+      ]
+    },
+    {
+      "tag": "house_last_price_median",
+      "patterns": [
+        "What is the median last price of house?",
+        "Tell me the median house last price."
+      ],
+      "responses": [
+        "The median last price of house is 17000000.0."
+      ]
+    },
+    {
+      "tag": "house_last_price_std",
+      "patterns": [
+        "What is the standard deviation last price of house?",
+        "Tell me the standard deviation house last price."
+      ],
+      "responses": [
+        "The standard deviation last price of house is 19813758.1."
+      ]
+    },
+    {
+      "tag": "house_num_bedrooms_mean",
+      "patterns": [
+        "What is the average num bedrooms of house?",
+        "Tell me the average house num bedrooms."
+      ],
+      "responses": [
+        "The average num bedrooms of house is 4.1."
+      ]
+    },
+    {
+      "tag": "house_num_bedrooms_min",
+      "patterns": [
+        "What is the minimum num bedrooms of house?",
+        "Tell me the minimum house num bedrooms."
+      ],
+      "responses": [
+        "The minimum num bedrooms of house is 0.0."
+      ]
+    },
+    {
+      "tag": "house_num_bedrooms_max",
+      "patterns": [
+        "What is the maximum num bedrooms of house?",
+        "Tell me the maximum house num bedrooms."
+      ],
+      "responses": [
+        "The maximum num bedrooms of house is 9.0."
+      ]
+    },
+    {
+      "tag": "house_num_bedrooms_median",
+      "patterns": [
+        "What is the median num bedrooms of house?",
+        "Tell me the median house num bedrooms."
+      ],
+      "responses": [
+        "The median num bedrooms of house is 4.0."
+      ]
+    },
+    {
+      "tag": "house_num_bedrooms_std",
+      "patterns": [
+        "What is the standard deviation num bedrooms of house?",
+        "Tell me the standard deviation house num bedrooms."
+      ],
+      "responses": [
+        "The standard deviation num bedrooms of house is 2.2."
+      ]
+    },
+    {
+      "tag": "house_num_bathrooms_mean",
+      "patterns": [
+        "What is the average num bathrooms of house?",
+        "Tell me the average house num bathrooms."
+      ],
+      "responses": [
+        "The average num bathrooms of house is 3.1."
+      ]
+    },
+    {
+      "tag": "house_num_bathrooms_min",
+      "patterns": [
+        "What is the minimum num bathrooms of house?",
+        "Tell me the minimum house num bathrooms."
+      ],
+      "responses": [
+        "The minimum num bathrooms of house is 0.0."
+      ]
+    },
+    {
+      "tag": "house_num_bathrooms_max",
+      "patterns": [
+        "What is the maximum num bathrooms of house?",
+        "Tell me the maximum house num bathrooms."
+      ],
+      "responses": [
+        "The maximum num bathrooms of house is 9.0."
+      ]
+    },
+    {
+      "tag": "house_num_bathrooms_median",
+      "patterns": [
+        "What is the median num bathrooms of house?",
+        "Tell me the median house num bathrooms."
+      ],
+      "responses": [
+        "The median num bathrooms of house is 2.5."
+      ]
+    },
+    {
+      "tag": "house_num_bathrooms_std",
+      "patterns": [
+        "What is the standard deviation num bathrooms of house?",
+        "Tell me the standard deviation house num bathrooms."
+      ],
+      "responses": [
+        "The standard deviation num bathrooms of house is 2.1."
+      ]
+    },
+    {
+      "tag": "house_surface_total_mean",
+      "patterns": [
+        "What is the average surface total of house?",
+        "Tell me the average house surface total."
+      ],
+      "responses": [
+        "The average surface total of house is 325.7."
+      ]
+    },
+    {
+      "tag": "house_surface_total_min",
+      "patterns": [
+        "What is the minimum surface total of house?",
+        "Tell me the minimum house surface total."
+      ],
+      "responses": [
+        "The minimum surface total of house is 60.0."
+      ]
+    },
+    {
+      "tag": "house_surface_total_max",
+      "patterns": [
+        "What is the maximum surface total of house?",
+        "Tell me the maximum house surface total."
+      ],
+      "responses": [
+        "The maximum surface total of house is 1200.0."
+      ]
+    },
+    {
+      "tag": "house_surface_total_median",
+      "patterns": [
+        "What is the median surface total of house?",
+        "Tell me the median house surface total."
+      ],
+      "responses": [
+        "The median surface total of house is 285.0."
+      ]
+    },
+    {
+      "tag": "house_surface_total_std",
+      "patterns": [
+        "What is the standard deviation surface total of house?",
+        "Tell me the standard deviation house surface total."
+      ],
+      "responses": [
+        "The standard deviation surface total of house is 194.0."
+      ]
+    }
+  ]
+}
